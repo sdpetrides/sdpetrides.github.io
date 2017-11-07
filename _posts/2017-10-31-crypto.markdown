@@ -2,7 +2,7 @@
 layout: post
 title:  "Perfect Secrecy in Reality"
 date:   2017-10-31 22:40:00 -0400
-categories: welcome
+categories: crypto computer-science
 ---
 In my cryptography class, we learned about a concept of perfect secrecy. It is the idea that given the ciphertext, an adversary cannot retrieve any information about the message. More specifically, the adversary cannot reveal any characters in the message nor garner any information about what information the message may contain.
 
