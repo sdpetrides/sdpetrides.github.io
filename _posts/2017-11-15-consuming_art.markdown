@@ -2,7 +2,7 @@
 layout: post
 title:  "Art is Special"
 date:   2017-11-15 13:20:00 -0400
-categories: music movies television art
+categories: art
 ---
 # The ability to create art may be the most human-specific capability that we possess.
 
@@ -20,12 +20,10 @@ If you are curious about what art think is special, I have recently been watchin
 
 ---
 
-[The Louvre](http://www.louvre.fr/en)
+Links:
 
-[Musee d'Orsay](http://www.musee-orsay.fr/en/home.html)
-
-[Musee Rodin](http://www.musee-rodin.fr/)
-
-[Stranger Things](http://www.imdb.com/title/tt4574334/)
-
-[Post Malone](https://www.youtube.com/user/postmalone)
+* [The Louvre](http://www.louvre.fr/en)
+* [Musee d'Orsay](http://www.musee-orsay.fr/en/home.html)
+* [Musee Rodin](http://www.musee-rodin.fr/)
+* [Stranger Things](http://www.imdb.com/title/tt4574334/)
+* [Post Malone](https://www.youtube.com/user/postmalone)

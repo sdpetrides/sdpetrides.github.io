@@ -2,7 +2,7 @@
 layout: post
 title:  "You, Me, and System Design"
 date:   2017-11-06 13:20:00 -0400
-categories: systems computer-science
+categories: technology
 ---
 # Computer science is one of the best majors for a technical student. 
 
