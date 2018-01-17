@@ -4,25 +4,27 @@ title:  "Perfect Secrecy in Reality"
 date:   2017-10-31 22:40:00 -0400
 categories: technology
 ---
-In my cryptography class, we learned about a concept of perfect secrecy. It is the idea that given the ciphertext, an adversary cannot retrieve any information about the message. More specifically, the adversary cannot reveal any characters in the message nor garner any information about what information the message may contain.
+# How much secrecy is enough secrecy?
+
+In my cryptography class, we learned about a concept of perfect secrecy. It is the idea that given a ciphertext (an encrypted message), an adversary cannot retrieve any information about the message. More specifically, the adversary cannot reveal any characters in the message nor garner any information about what the message may contain.
 
 This can be defined with the following equation:
 
 	Pr[Enc(m) = c] = Pr[Enc(m') = c]
 
-	Enc is the encryption step
-	m and m' are to distinct messages
-	c is a ciphertext
+	Enc() = encryption function
+	m, m' = two distinct messages
+	c = ciphertext
 
 This equation means that encrypting on one message versus another does not change the probability of getting a certain cipthertext.
 
-If this definition seems very strict, that is because it is. Still, to implement this type of secrecy is very simple.
+If this definition seems very strict, that is because it is strict. Still, to implement this type of secrecy is very simple.
 	
-	1. Generate a uniform random key with the same length of the message.
-	2. Output a ciphertext that is the XOR of the key and the message.
-	3. To decrypt this ciphertext, output the XOR of the key and the ciphertext.
+	Generation: Generate a uniform random key with the same length of the message.
+	Encryption: Output a ciphertext that is the XOR of the key and the message.
+	Decryption: Output the message as the XOR of the key and the ciphertext. 
 
-Using this encryption scheme, Alice and Bob could be absolutely sure that no eavesdropper could possibly reveal any information about the message. The security is not the issue with this scheme. The issue with this scheme is practicality.
+Using this encryption scheme, Alice and Bob (two theoretical communication endpoints) could be absolutely sure that no eavesdropper could possibly reveal any information about the message. The security is not the issue with this scheme. The issue with this scheme is practicality.
 
 If Alice wanted to send a long message, of say, a few hundred megabytes, she must generate a uniform random key of a few hundred megabytes. This is not practical at all. This is an issue.
 
@@ -32,10 +34,10 @@ This encryption schemes is called the One Time Pad (OTP). And while the OTP is p
 
 So what is used?
 
-More practical methods take a random seed and 'stretch' the seed to the message length to make it appear as random. What is interesting here is that this method is not perfectly secret. This practical OTP does not meet the requirements of the equation at the beginning of this article. This means that adversaries can reveal some information about messages sent. Yet, Alice and Bob are safe in reality.
+More practical methods take a random seed and 'stretch' the seed to the message length to make it appear as completely random. What is interesting here is that this method is not perfectly secret. This practical OTP does not meet the requirements of the equation at the beginning of this article. This means that adversaries can reveal some information about messages sent. In reality, however, Alice and Bob are safe to communicate using the psuedo-OTP.
 
 How are they safe if adversaries can reveal information about the message?
 
-The only way that adversaries can reveal information if they have algorithms that work in exponential time. There are no adversaries that work in exponential time. Currently, the best they can do is polynomial time and that is not good enough to crack this practical OTP.
+The only way that adversaries can reveal information if they have algorithms that work in 'exponential time.' To avoid explaining the classication of algorithms, it is sufficient to point out that are no adversaries that work in exponential time. Currently, the best they can do is 'polynomial time' and that is not good enough to crack this practical OTP.
 
 These natural limits of computation allow encryption to cut corners but guarantee practical secrecy for the world.
