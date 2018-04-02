@@ -5,11 +5,11 @@ date:   2018-03-30 13:20:00 -0400
 categories: technology
 ---
 
-# Humans optimize our use of language and communication
+# As humans, we are naturally optimizing our use of language and communication.
 
-Almost every basic algorithms class will include a section on Huffman Coding. Originally developed by a student at MIT in the 1950s, the algorithm is used for lossless data compression. It is still used today in common data and image formats (i.e. gzip, jpeg, png).
+Almost every basic algorithms course will include a section on Huffman Coding. Originally developed by a student at MIT in the 1950s, the algorithm is used for lossless data compression. It is still used today in common data and image formats (i.e. gzip, jpeg, png).
 
-The goal of the algorithm is to take some sequence of symbols (letters, words, etc.) and give a compressed version that sent over a mode of communication (wire, waves, photons), and expanded upon arrival at its destination. The idea of the algorithm is to encode the most-used symbols or characters with the shortest encoding. 
+The goal of the algorithm is to take some sequence of symbols (letters, words, etc.) and give a compressed version that can be sent over a mode of communication (wire, waves, photons), and be expanded upon arrival at its destination. The idea of the algorithm is to encode the most-used symbols or characters with the shortest encoding. 
 
 An example is included below. Notice that the length of the data is compressed from 46 characters on a 3-bit string per character (138 bits total) leads to 116 bits to encode this message.
 
@@ -20,10 +20,18 @@ While a full explanation of the implementation would get technical (binary tree,
 
 Now think about the English language. Think about any language or mode of communication. Notice how this idea (shortest encodings for the most common symbols) is already baked in.
 
-For example, in English, almost all of the common pronouns (I, me, he, she, we, they, etc.) are a single syllable. In spoken English, the fewer the syllables, the shorter the time to communicate a word. Therefore, in spoken languages, I believe that there is a trend where the most frequent words are the shortest words. 
+In spoken English, the fewer the syllables, the shorter the time to communicate a word. Therefore, in spoken languages, I believe that there is a trend where the most frequent words have the least number of syllables. For example, many greetings and pronouns have one single syllable: hey, hi, I, me, you, him, her, we. We can compare these words to those that are not used frequently: serendipitous, disambiguation, gentrification.
 
-In written English this rules follows but I believe that in this age of constant messaging and typing, humans have increased this rate of natural encoding and the most frequenctly typed (or texted) words are getting shorter. For example, instead of typing right now, one would type rn. Last night becomes ln. The most a word is used, the more likely it is to be shortened. And as we communicate through written English on a magnitude greater than ever before, we are seeing a rapid change in our language. 
+![Movie Script Word Frequency]({{ '/images/script_wordcount.png' | absolute_url }})
+Source: Stephen Petrides on RStudio
+
+In the plot above, I am comparing the total contributions of word length for the most frequent 1000 words in four movie scripts. For example, in the Moonstruck movie script, a three-letter words are three times as frequent as six-letter words. While there is variation between these texts, the trend is quite clear: the shortest words are the most frequent words.
+
+I believe that in this age of constant messaging and typing, humans have increased this rate of natural encoding in written English and the most frequently typed (or texted) words are getting shorter. For example, instead of typing `right now`, one might type `rn`. `Last night` becomes `ln`. The more a word is used, the more likely it is to be shortened. And as we communicate through written English on a magnitude greater than ever before, we are seeing a rapid change in our language. 
 
 As a people, we are following this Huffman Coding algorithm without having any knowledge of its existence. We are naturally optimizing our use of language and communication.
 
 ---
+
+* [Huffman Encoding](https://en.wikipedia.org/wiki/Huffman_coding)
+* [Movie Script Source](http://www.imsdb.com/)
