@@ -4,7 +4,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-I grew up in New Jersey about a mile from the beach. My childhood revolved around sports and strategy games. I also liked school, specifically my math and science courses. As I got older I discovered a talent in acting and performed many of regional and high school musicals.
+I grew up in New Jersey about a mile from the beach. My childhood revolved around sports and strategy games. I always enjoyed school, specifically my math and science courses. As I got older I discovered a talent in acting and performed in many regional and high school musicals.
 
 I went to Biotechnology High School and studied all things biology, chemistry, and physics. I joined the FFA and entered science fairs and public speaking contexts at the State and National level.
 
