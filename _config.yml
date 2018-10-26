@@ -16,8 +16,8 @@
 title: Stephen Petrides
 email: sdpetrides@gmail.com
 description: Rutgers '18
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "sdpetrides.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sdpetrides
 
 # Build settings

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome"
+date:   2017-10-30 13:20:00 -0400
+categories:
+---
+# Welcome to my personal site and blog.
+
+I have a lot of interests (computers, biology, basketball, nature, movies, music) and I hope to share them with the world. Hopefully you learn something new. Enjoy.
