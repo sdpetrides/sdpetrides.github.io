@@ -5,20 +5,22 @@ date:   2017-12-05 13:20:00 -0400
 categories: technology
 ---
 
-# When we read a textbook, we are learn about the solutions to problems but not about how the problems were solved.
+# When we read a textbook, we learn about the solutions to problems but not about how the problems were solved.
 
-Typically, I think that students are taught with the 'Fundamentals to Specifics' approach. It works in the following way.
+In my experience in the public education system, I believe I have been primarily taught with the 'Fundamentals to Specifics' approach to learning. It works in the following way.
 
 # Fundamentals to Specifics
 
 	study the building blocks of a subject
 	systematically learn the specifics of each subtopic
 
-An example of 'Fundamentals to Specifics' would be an introductory biology course. In this subject, students typically begin learning about cells and their properties. Then they may transition to tissues, organs, and physiology. Later the class may move to ecology or evolution. At this point, students are being tested about the specifics of these subtopics. There are definitions to memorize and concepts to distingush. There is a lot of information to consume and to hold on to about the subject. What is missing from this approach however, is any knowledge of the process that gave rise to these facts and definitions. Students may know the differences between an animal cell and a plant cell, but they could not tell you about the experiments that demonstrated these differences.
+An example of 'Fundamentals to Specifics' would be an introductory biology course. In this subject, students typically begin learning about cells and their properties. Then they may transition to tissues, organs, and physiology. Later the class may move to ecology or evolution. At this point, students are being tested about the specifics of these subtopics. There are definitions to memorize and concepts to distinguish. There is a lot of information to consume and to hold on to about the subject.
 
-As a result, students open and close their textbooks without ever learning anything about how to participate in this process. They don't know what questions to ask, how to design experiments to answer those questions, or how to draw conclusions based on the results from these experiments. The 'Fundamentals to Specifics' approach may cover a lot of ground in the classroom, it doesn't put students in a position to be a part of the scientific community and there is where this approach fails.
+What is missing from this approach, however, is deep knowledge of the process that gave rise to these facts and definitions. Students may know the differences between an animal cell and a plant cell, but they could not tell you about the experiments that demonstrated these differences.
 
-Currently I am in a genetics class called Cancer. I believe my cancer class operates with a different approach to learning which I would like to call the 'Logical Flow of Ideas.'
+As a result, students open and close their textbooks without ever learning anything about how to participate in this process. They don't know what questions to ask, how to design experiments to answer those questions, or how to draw conclusions based on the results from these experiments. The 'Fundamentals to Specifics' approach may cover a lot of ground in the classroom, it doesn't put students in a position to be a part of the scientific community.
+
+Currently I am in a genetics class called Cancer at Rutgers University. I believe my Cancer course operates with a different approach to learning which I would like to call the 'Logical Flow of Ideas.'
 
 # Logical Flow of Ideas
 
@@ -26,14 +28,14 @@ Currently I am in a genetics class called Cancer. I believe my cancer class oper
 	study how they investigated those questions
 	study how they interpreted the results to draw conclusions
 
-In my cancer class, each week is centered on a specific subtopic i.e. tumor formation. Our professor goes through a short (80 minute) lecture on the basics of the topic. These will include explaining the importance of the subtopic, defining related terms, and explaining the methods used to study this subtopic. Next, we are assigned a review paper and an experimental paper. We are required to read these papers and return for a class-wide discussion. Throughout the class, many students return to the discussion ready state the conclusions of the experiment and the opinions of the review. Each time, my professor stops the discussion and informs us that he is not looking for the answer. He wants us understand the questions they are asking, how they tried to learn more, and what they came away with.
+In my cancer class, each week is centered on a specific subtopic i.e. tumor formation. Our professor goes through a short (80 minute) lecture on the basics of the topic. These will include explaining the importance of the subtopic, defining related terms, and explaining the methods used to study this subtopic. Next, we are assigned a review paper and an experimental paper. We are required to read these papers and return for a class-wide discussion. Throughout the class, many students return to the discussion ready state the conclusions of the experiment and the opinions of the review. Each time, my professor stops the discussion and informs us that he is not looking for the answer. He wants us to understand the questions they are asking, how they tried to learn more, and what they came away with.
 
-When these researchers have questions, they do not consult textbooks. They know what they don't know and they go after it. That is what this class is teaching me how to do and it is a lesson that I wish I understood many years ago. With the 'Logical Flow of Ideas' approach, we learn how to pick up where someone else left off and carry the gaunlet of science. As a result, I believe that I can participate in the scientific field more than I ever have before.
+When these researchers have questions, they do not consult textbooks. They know what they don't know and they go after it. That is what this class is teaching me how to do and it is a lesson that I wish I understood many years ago. With the 'Logical Flow of Ideas' approach, we learn how to pick up where someone else left off and carry the gauntlet of science. As a result, I believe that I can participate in the scientific field more than I ever have before.
 
-Yet, there are some drawbacks that I should disclose. With the 'Logical Flow of Ideas' approach, the ground covered is much less. I do not pretent to understand how cancer works, how to treat it, or how to prevent it. In fact, I would have a better understanding if I followed the 'Fundamentals to Specifics' approach. However, this cancer class is not about learning how cancer works. This cancer class is about learning the scientific method in the context of cancer.
+Yet, there are some drawbacks that I should disclose. With the 'Logical Flow of Ideas' approach, the ground covered is much less. I do not pretend to understand how cancer works, how to treat it, or how to prevent it. In fact, I would have a better understanding if I followed the 'Fundamentals to Specifics' approach. However, this course is not about learning how cancer works. This course is about learning the scientific method in the context of understanding cancer.
 
-So, why is this Cancer class listed as a 400-level class and the Introduction to Biology class listed as a 100-level class? The difference is difficulty is not what I am picking at. I believe the order in which students take these classes is incorrect. In my opinion, learning how to ask and answer questions is much more fundamental to being a scientist than having some combination of broad and deep knowledge of a topic.
+So, why is this Cancer course listed as a 400-level class and the Introduction to Biology class listed as a 100-level class? The difference is difficulty is not what I am picking at. I believe the order in which students take these classes is incorrect. In my opinion, learning how to ask and answer questions is much more fundamental to being a scientist than having some combination of broad and deep knowledge of a topic.
 
-Furthermore, I believe that students should take classes that employ the 'Logical Flow of Ideas' approach at the beginning of their educational journey as they develop their interests, and graduate to taking classes structured using the 'Fundamentals to Specifics' approach. With this change, I think that more students would be excited to participate in the demystifying of scientific questions and be more prepared to join the ranks of scientific research.
+Furthermore, I believe that students should take classes that employ the 'Logical Flow of Ideas' approach at the beginning of their educational journey as they develop their interests, and graduate to taking classes structured using the 'Fundamentals to Specifics' approach. With this change, I think that more students would be excited to participate in the demystifying of scientific questions and would be more prepared to join the ranks of scientific research.
 
 ---
