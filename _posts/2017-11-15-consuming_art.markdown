@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Art is Special"
-date:   2017-11-15 13:20:00 -0400
+date:   2017-11-15 13:20:00 -0500
 categories: art
 ---
 # The ability to create art is one of the most human-specific capabilities that we possess.

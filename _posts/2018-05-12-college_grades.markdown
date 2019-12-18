@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Self-Reflection: College Grades"
-date:   2018-05-12 13:20:00 -0400
+date:   2018-05-12 13:20:00 -0500
 categories: technology
 ---
 

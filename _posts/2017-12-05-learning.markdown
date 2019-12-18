@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Approaches to Learning"
-date:   2017-12-05 13:20:00 -0400
+date:   2017-12-05 13:20:00 -0500
 categories: technology
 ---
 

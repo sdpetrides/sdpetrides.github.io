@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Uncertainty in Technology and in Life"
-date:   2017-11-27 13:20:00 -0400
+date:   2017-11-27 13:20:00 -0500
 categories: technology
 ---
 

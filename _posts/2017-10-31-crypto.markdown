@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perfect Secrecy in Reality"
-date:   2017-10-31 22:40:00 -0400
+date:   2017-10-31 22:40:00 -0500
 categories: technology
 ---
 ## How much secrecy is enough secrecy?
