@@ -16,7 +16,7 @@ An example is included below. Notice that the length of the data is compressed f
 ![Huffman Encoding]({{ '/images/huffman_coding.png' | absolute_url }})
 [Image Source](https://en.wikipedia.org/wiki/Huffman_coding)
 
-While a full explanation of the implementation would get technical (binary tree, sorting, etc.), it suffices to identify what makes this algorithm work. Notice that the most common symbols (the _, D and A) get the shortest encodings (00, 01, 10). The more common these symbols, the more efficient this data compression algorithm.
+While a full explanation of the implementation would get technical (binary tree, sorting, etc.), it suffices to identify what makes this algorithm work. Notice that the most common symbols (the \_, D and A) get the shortest encodings (00, 01, 10). The more common these symbols, the more efficient this data compression algorithm.
 
 Now think about the English language. Think about any language or mode of communication. Specifically, think about the link between word usage frequency, and word length. Notice how this idea (shortest encodings for the most common symbols) is already baked in.
 
