@@ -9,8 +9,7 @@ categories: technology
 
 I finished my undergrad with a major in Computer Science (CS) and a minor in Biological Science. I went through a number of different majors and programs. Most notably, I was a Cell Biology and Neuroscience (CBN) major for my second year. For this major, I was enrolled in two semesters of General Physics and Organic Chemistry. Later, I decided that I did not want to continue with that major. I began taking multiple CS courses in each semester and finished the Bachelor's of Science track in the CS degree. [Rutgers Undergraduate Curriculum](https://www.cs.rutgers.edu/undergraduate/)
 
-![Grades By Semester]({{ '/images/grades.png' | absolute_url }})
-
+![Grades By Semester]({{ '/images/grades.png' }})
 
 The changes in color show the difference in classes I was taking. My first and second semester I was experimenting a lot with different types of classes. Then, I decided to pursue CBN. You can see that semesters three through six are packed with classes for that major. You can also see that I did not perform very well in these classes by the large dip in semester GPA. Before semester seven, I decided to focus on CS and switch to a Biological Science minor. The following four semesters were some of my highest semester GPAs.
 
