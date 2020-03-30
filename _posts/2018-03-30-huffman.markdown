@@ -13,7 +13,7 @@ The goal of the algorithm is to take some sequence of symbols (letters, words, e
 
 An example is included below. Notice that the length of the data is compressed from 46 characters on a 3-bit string per character (138 bits total) leads to 116 bits to encode this message.
 
-![Huffman Encoding]({{ '/images/huffman_coding.png' | absolute_url }})
+![Huffman Encoding]({{ '/images/huffman_coding.png' }})
 [Image Source](https://en.wikipedia.org/wiki/Huffman_coding)
 
 While a full explanation of the implementation would get technical (binary tree, sorting, etc.), it suffices to identify what makes this algorithm work. Notice that the most common symbols (the \_, D and A) get the shortest encodings (00, 01, 10). The more common these symbols, the more efficient this data compression algorithm.
@@ -22,7 +22,7 @@ Now think about the English language. Think about any language or mode of commun
 
 In spoken English, the fewer the syllables to speak, the shorter the time to communicate a word. Therefore, in spoken languages, I believe that there is a trend where the most frequent words have the least number of syllables. For example, many greetings and pronouns have one single syllable: hey, hi, I, me, you, him, her, we. We can compare these words to those that are not used frequently: serendipitous, disambiguation, gentrification.
 
-![Movie Script Word Frequency]({{ '/images/script_wordcount.png' | absolute_url }})
+![Movie Script Word Frequency]({{ '/images/script_wordcount.png' }})
 Source: Stephen Petrides on RStudio
 
 In the plot above, I am comparing the total contributions of word length for the most frequent 1000 words in four movie scripts. For example, in the Moonstruck movie script, three-letter words are three times as frequent as six-letter words. While there is variation between these texts, the trend is quite clear: the shortest words are the most frequent words.

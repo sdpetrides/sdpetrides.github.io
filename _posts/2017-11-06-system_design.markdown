@@ -12,7 +12,7 @@ Computer science teaches problem-solving and it is highly applicable to other di
 * If I am making a system for efficient storage access at a production facility, I am creating a memory management system.
 * If I am part of a group that is deciding on a new restaurant to try, I am using a consensus algorithm.
 
-![Lego Airport]({{ '/images/lego_airport.jpg' | absolute_url }})
+![Lego Airport]({{ '/images/lego_airport.jpg' }})
 [Image Source](https://flic.kr/p/dW915G)
 
 In its purest form, system design is about identifying a problem, assessing various trade-offs, and choosing a design pattern to solve that problem. Each tweak to the algorithm results in new behavior. The designers must carefully consider each trade-off to devise the system that meets the requirements and expectations. It’s a practical form of art.
