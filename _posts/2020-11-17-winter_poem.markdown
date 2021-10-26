@@ -2,11 +2,12 @@
 layout: post
 title:  "A Near Winter Poem"
 date:   2020-11-17 13:20:00 -0500
-categories: peotry
+categories: poetry
 ---
 
 # A Near Winter Poem
 
+```
 After a final color rush
 the trees lose their leaves.
 We can see farther
@@ -37,3 +38,4 @@ every year we still wait.
 It takes time so that we can too.
 Not to be ready for spring
 but to be ready to.
+```
