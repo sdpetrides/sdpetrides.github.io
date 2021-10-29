@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Indoor Composing With Bokashi"
+date:   2021-10-26 13:20:00 -0500
+categories: gardening
+streamableId: rs6avu
+---
+
+This summer, I kept all of my food scraps in a sealed bucket, next to my kitchen. This fall, I poured the contents into a some soil beds in my garden. By spring, or earlier, these beds will be ready for planting; by summer, they will be full of flowers and herbs.
+
+This is all possible because of a concept called Bokashi composting. It's a different type of composting; one fit for a time-crunched 20-something lucky enough to have a few square feet for a garden.
+
+![Bokashi Bran]({{ '/images/bokashi_bran.jpg' }})
+
+I first learned about Bokashi composting from a Japanese vlogger named [Her 86m2](https://www.youtube.com/watch?v=F1i2KOKITmI). (Her videos are beautiful and calming and I would highly recommend.)
+
+Soon after I moved into my new apartment, this passed spring, I promptly ordered a [book](https://read.amazon.com/kp/embed?asin=B00GL9SUIS&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_7M184A00CN3EJDECCCCF) on the subject, and a [bucket and bag of EM bran](https://www.amazon.com/gp/product/B004X5KB0W/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1).
+
+![Bokashi Bucket]({{ '/images/bokashi_bucket.jpg' }})
+
+While I did consider other forms of composting, none fit my space and lifestyle quite like Bokashi. It doesn't require lots of time or space. Even better, it allows for the reuse of almost all food waste, from fruit and vegetable scraps, to grains, meats, and dairy.
+
+This post is intended to give a perspective on the experience of using Bokashi so I will leave an explanation of the science behind the process to the experts. There are plenty of explanatory videos online, as well as informative books on the subject. The science is very interesting and I would recommend learning about this powerful process.
+
+Here is the basic process for Bokashi composting. When you have some food scraps or leftovers, open up your bucket, drop the scraps in, press down to expel any excess air between food, sprinkle a layer of EM bran onto the top of the scraps, and finally, cover the bucket making sure that the seal is air-tight.
+
+{% include streamablePlayer.html id=page.streamableId %}
+
+Now there are some exceptions to what food can go into the bucket. First, you want to avoid any rotten or moldy foods. If included, these can spoil the entire bucket and you will be forced to trash the contents of the bucket. Second, you want to avoid adding too many liquids. Some excess oil or milk here and there won't make a huge difference but pouring too much liquid into the bucket, like an entire container of juice, will turn the bucket into a soup and disrupt the composting process.
+
+In my experience, I found it was best to open the bucket a few times per day. Less is more, as this is an anaerobic process and adding too much air can be disruptive.
+
+I live with one roommate and we did quite well with this protocol. After a few days, it was second nature for both of us to toss some scraps into the bucket after cooking or eating. We experimented with keeping scraps in temporary containers for hours to days, so that we could minimize the number of bucket opens. Since we each only cook about twice per day, it was acceptable to just open the bucket around meal time.
+
+You may be wondering, with all of this rotting food in a bucket, does it start to smell? Or worse, does it attract pests?
+
+What is wonderful about this process is that since the bucket has an air-tight seal, there is no smell when it is closed. Further, since the microorganisms used are integrated with a bran, and due to the specific composting process, the bucket actually has a sweet and pleasant scent when opened. Additionally, there have been no reports of pests.
+
+After a few months of slowly filling up the bucket, we ran out of bran and moved into the next phase of Bokashi composting: waiting. First, we waited about two months with the bucket closed. This gives the microorganisms a consistent anaerobic environment to work on the organic material. Periodically, I would drain some liquid at the bottom of the bucket. (This runoff can be used for many purposes such as plant fertilization.) Next, I emptied the bucket into a set of soil-filled planters in my garden, mixed in the food scraps, and covered with a layer of soil. This final stage takes some more time but will result in nutrient-dense soil for plants and vegetables.
+
+With my bucket empty, I washed it out, bought a new bag of EM bran, and started the process again.
